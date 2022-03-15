@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vojta/Desktop/school for test/C++/cLion/datum/datum.cpp
+datum.h
+/Users/vojta/Desktop/school for test/C++/cLion/datum/datum.h
+cstdlib
+-
+ctime
+-
+cmath
+-
+
+/Users/vojta/Desktop/school for test/C++/cLion/datum/datum.h
+iostream
+-
+
+/Users/vojta/Desktop/school for test/C++/cLion/datum/main.cpp
+iostream
+-
+datum.h
+/Users/vojta/Desktop/school for test/C++/cLion/datum/datum.h
+
